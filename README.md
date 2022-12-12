@@ -1,2 +1,3 @@
-# Pemweb-Pertemuan-6
-Martatia Amanda - 120140163
+# Pertemuan6
+> Martatia Amanda - 120140163
+> <br>![Output](output.png)
